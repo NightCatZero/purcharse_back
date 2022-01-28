@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/houtai/index.html" value="file://$PROJECT_DIR$/web/houtai" />
+        <entry key="file://$PROJECT_DIR$/web/houtai/productListUIbycri.jsp" value="file://$PROJECT_DIR$/web/houtai" />
+        <entry key="file://$PROJECT_DIR$/web/index.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/qiantai/flow.jsp" value="file://$PROJECT_DIR$/web/qiantai" />
+        <entry key="file://$PROJECT_DIR$/web/qiantai/login.jsp" value="file://$PROJECT_DIR$/web/qiantai" />
+      </map>
+    </option>
+  </component>
+</project>
